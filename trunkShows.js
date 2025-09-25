@@ -4,7 +4,7 @@
     "locationName": "New York",
     "confirmed": true,
     "venueName": "Metropolitan Club",
-    "addressLines": ["1 E 60th St", "New York, NY 10022"], // the new sections are new lines of the address, so ["first line", "second line"],
+    "addressLines": ["1 East 60th Street", "New York, NY 10022"], // the new sections are new lines of the address, so ["first line", "second line"],
     "dateStart": "23/10/2025", // dd/mm/yyyy
     "dateEnd": "24/10/2025", // dd/mm/yyyy
     "timeWindowLabel": "10:00 AM - 6:00 PM",
