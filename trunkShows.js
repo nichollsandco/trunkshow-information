@@ -5,10 +5,10 @@
     "confirmed": true,
     "venueName": "Metropolitan Club",
     "addressLines": ["1 East 60th Street", "New York, NY 10022"], // the new sections are new lines of the address, so ["first line", "second line"],
-    "dateStart": "23/10/2025", // dd/mm/yyyy
-    "dateEnd": "24/10/2025", // dd/mm/yyyy
+    "dateStart": "12/02/2026", // dd/mm/yyyy
+    "dateEnd": "14/02/2026", // dd/mm/yyyy
     "timeWindowLabel": "10:00 AM - 6:00 PM",
-    "dateLabel": "OCTOBER 23-24, 2025", // MONTH DD-DD, YYYY
+    "dateLabel": "FEBRUARY 23-24, 2025", // MONTH DD-DD, YYYY
     "calNamespace": "newyork", // place
     "calLink": "nichollsandco/newyork", // nichollsandco/place
     "sortOrder": 1
