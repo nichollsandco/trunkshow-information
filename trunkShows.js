@@ -8,7 +8,7 @@
     "dateStart": "12/02/2026", // dd/mm/yyyy
     "dateEnd": "14/02/2026", // dd/mm/yyyy
     "timeWindowLabel": "10:00 AM - 6:00 PM",
-    "dateLabel": "FEBRUARY 23-24, 2025", // MONTH DD-DD, YYYY
+    "dateLabel": "FEBRUARY 12-14, 2025", // MONTH DD-DD, YYYY
     "calNamespace": "newyork", // place
     "calLink": "nichollsandco/newyork", // nichollsandco/place
     "sortOrder": 1
